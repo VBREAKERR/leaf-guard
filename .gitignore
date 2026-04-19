@@ -1,0 +1,8 @@
+dataset/
+raw_dataset/
+__pycache__/
+*.pyc
+*.jpg
+*.png
+.env
+node_modules/
